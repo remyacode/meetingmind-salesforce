@@ -1,3 +1,22 @@
+# MeetingMind - AI Meeting Debrief for Salesforce
+![CI](https://github.com/remyacode/meetingmind-salesforce/actions/workflows/ci.yml/badge.svg)
+![AppExchange](https://img.shields.io/badge/AppExchange-Listed-00A1E0)
+![Version](https://img.shields.io/badge/version-1.0-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+Free Salesforce 2GP managed package. AI-powered meeting debrief generator for Opportunity, Account, and Case records.
+
+**Install:** https://login.salesforce.com/packaging/installPackage.apexp?p0=04tdM000000SN89QAG
+
+## Stack
+Apex | LWC | Gemini API | Custom Metadata | Named Credentials  
+2GP Managed Package | GitHub Actions CI/CD
+
+## CI/CD
+Every push: scratch org created → code deployed → Apex tests run → coverage verified → scratch org deleted.
+
+---
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
