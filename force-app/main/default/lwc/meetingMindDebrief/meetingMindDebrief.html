@@ -1,0 +1,72 @@
+<template>
+    <lightning-card title="MeetingMind - AI Debrief" icon-name="custom:custom14">
+        <div class="slds-p-horizontal_medium slds-is-relative">
+            <!-- Loading Spinner -->
+            <template if:true={isLoading}>
+                <lightning-spinner alternative-text="Loading" size="medium"></lightning-spinner>
+            </template>
+
+            <!-- Error Message -->
+            <template if:true={errorMessage}>
+                <div class="slds-notify slds-notify_alert slds-alert_error slds-m-bottom_small" role="alert">
+                    <span class="slds-assistive-text">error</span>
+                    <h2>{errorMessage}</h2>
+                </div>
+            </template>
+
+            <!-- Input Area -->
+            <lightning-textarea 
+                label="Paste your meeting notes here" 
+                placeholder="Type or paste your rough meeting notes..." 
+                max-length="5000" 
+                value={meetingNotes} 
+                onchange={handleNotesChange}
+                class="slds-m-bottom_small">
+            </lightning-textarea>
+
+            <lightning-button 
+                label="Generate Debrief" 
+                variant="brand" 
+                onclick={handleGenerate} 
+                disabled={isLoading}
+                class="slds-m-bottom_medium slds-show">
+            </lightning-button>
+
+            <!-- Generated Debrief Section -->
+            <template if:true={debriefData}>
+                <div class="slds-box slds-theme_default slds-m-top_medium">
+                    <h2 class="slds-text-heading_medium slds-m-bottom_small">Generated Debrief</h2>
+                    
+                    <div class="slds-m-bottom_small">
+                        <strong>Sentiment: </strong>
+                        <span class={sentimentBadgeClass}>{debriefData.Sentiment__c}</span>
+                    </div>
+
+                    <div class="slds-box slds-theme_shade slds-m-bottom_small">
+                        <strong>Manager Summary:</strong>
+                        <p>{debriefData.Manager_Summary__c}</p>
+                    </div>
+
+                    <div class="slds-m-bottom_small">
+                        <strong>Key Points:</strong>
+                        <p class="slds-text-longform" style="white-space: pre-wrap;">{debriefData.Key_Points__c}</p>
+                    </div>
+
+                    <div class="slds-m-bottom_small">
+                        <strong>Action Items:</strong>
+                        <p class="slds-text-longform" style="white-space: pre-wrap;">{debriefData.Action_Items__c}</p>
+                    </div>
+
+                    <div class="slds-m-bottom_small">
+                        <strong>Next Steps:</strong>
+                        <p class="slds-text-longform" style="white-space: pre-wrap;">{debriefData.Next_Steps__c}</p>
+                    </div>
+
+                    <div class="slds-m-top_medium">
+                        <a href={debriefRecordUrl} target="_blank">View Full Record</a>
+                    </div>
+                </div>
+            </template>
+        </div>
+    </lightning-card>
+</template>

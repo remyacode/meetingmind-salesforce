@@ -1,0 +1,2534 @@
+
+ ─────────────── Deploying Metadata ───────────────
+
+
+ ◼ Preparing
+ ◼ Waiting for the org to respond
+ ◼ Deploying Metadata
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: ⠁
+ Elapsed Time: 0ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ⣾ Preparing 18ms
+ ◼ Waiting for the org to respond
+ ◼ Deploying Metadata
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: ⠁
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 28ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ⣾ Preparing 52ms
+ ◼ Waiting for the org to respond
+ ◼ Deploying Metadata
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: ⠁
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 60ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ⣽ Preparing 83ms
+ ◼ Waiting for the org to respond
+ ◼ Deploying Metadata
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: ⠁
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 93ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 114ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣾ Deploying Metadata 0ms
+   ▸ Components: 0/20 (0%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 124ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣾ Deploying Metadata 32ms
+   ▸ Components: 0/20 (0%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 158ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣾ Deploying Metadata 63ms
+   ▸ Components: 0/20 (0%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 191ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 96ms
+   ▸ Components: 0/20 (0%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 223ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 127ms
+   ▸ Components: 0/20 (0%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 255ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 160ms
+   ▸ Components: 0/20 (0%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 286ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣻ Deploying Metadata 190ms
+   ▸ Components: 0/20 (0%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 318ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣻ Deploying Metadata 224ms
+   ▸ Components: 0/20 (0%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 351ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 255ms
+   ▸ Components: 0/20 (0%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 383ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 288ms
+   ▸ Components: 0/20 (0%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 415ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 318ms
+   ▸ Components: 0/20 (0%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 446ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⡿ Deploying Metadata 352ms
+   ▸ Components: 0/20 (0%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 479ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⡿ Deploying Metadata 384ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 510ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 417ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 543ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 448ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 576ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 481ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 608ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣯ Deploying Metadata 512ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 640ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣯ Deploying Metadata 544ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 671ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 577ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 703ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 608ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 736ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 642ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 769ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣾ Deploying Metadata 674ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 802ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣾ Deploying Metadata 709ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 835ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 741ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 869ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 774ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 901ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 806ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 933ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣻ Deploying Metadata 837ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 965ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣻ Deploying Metadata 870ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 997ms
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 900ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.02s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 934ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.06s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 964ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.09s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⡿ Deploying Metadata 998ms
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.12s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⡿ Deploying Metadata 1.03s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.15s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 1.06s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.18s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 1.09s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.22s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 1.12s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.25s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣯ Deploying Metadata 1.15s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.28s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣯ Deploying Metadata 1.19s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.31s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 1.22s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.35s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 1.25s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.38s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 1.28s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.41s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣾ Deploying Metadata 1.31s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.44s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣾ Deploying Metadata 1.35s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.47s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 1.38s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.51s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 1.41s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.54s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 1.44s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.57s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣻ Deploying Metadata 1.47s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.60s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣻ Deploying Metadata 1.51s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.64s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 1.54s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.67s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 1.57s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.70s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 1.61s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.73s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⡿ Deploying Metadata 1.64s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.76s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⡿ Deploying Metadata 1.67s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.80s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 1.70s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.83s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 1.73s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.86s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 1.76s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.89s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣯ Deploying Metadata 1.80s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.92s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣯ Deploying Metadata 1.83s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.96s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 1.86s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 1.99s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 1.89s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.02s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 1.93s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.05s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣾ Deploying Metadata 1.96s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.09s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣾ Deploying Metadata 1.99s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.12s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 2.02s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.15s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 2.06s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.18s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 2.09s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.21s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣻ Deploying Metadata 2.12s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.25s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣻ Deploying Metadata 2.15s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.28s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 2.18s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.31s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 2.22s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.34s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 2.25s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.38s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⡿ Deploying Metadata 2.28s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.41s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⡿ Deploying Metadata 2.31s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.44s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 2.34s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.47s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 2.38s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.50s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 2.41s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.54s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣯ Deploying Metadata 2.44s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.57s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣯ Deploying Metadata 2.47s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.60s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 2.50s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.63s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 2.54s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.66s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 2.57s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.70s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣾ Deploying Metadata 2.60s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.73s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣾ Deploying Metadata 2.63s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.76s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 2.66s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.79s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 2.70s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.82s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 2.73s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.86s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣻ Deploying Metadata 2.76s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.89s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣻ Deploying Metadata 2.79s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.92s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 2.83s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.95s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 2.86s
+   ▸ Components: 2/20 (10%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 2.99s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 2.89s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.02s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⡿ Deploying Metadata 2.92s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.05s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⡿ Deploying Metadata 2.95s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.08s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 2.99s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.11s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 3.02s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.14s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 3.05s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.18s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣯ Deploying Metadata 3.08s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.21s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣯ Deploying Metadata 3.12s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.24s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 3.15s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.27s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 3.18s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.31s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 3.21s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.34s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣾ Deploying Metadata 3.24s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.37s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣾ Deploying Metadata 3.27s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.40s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 3.31s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.43s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 3.34s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.46s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 3.37s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.50s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣻ Deploying Metadata 3.41s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.53s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣻ Deploying Metadata 3.44s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.56s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 3.47s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.60s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 3.50s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.63s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⢿ Deploying Metadata 3.53s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.66s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⡿ Deploying Metadata 3.57s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.69s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⡿ Deploying Metadata 3.60s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.72s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 3.63s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.76s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 3.66s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.79s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣟ Deploying Metadata 3.69s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.82s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣯ Deploying Metadata 3.73s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.85s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣯ Deploying Metadata 3.76s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.89s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 3.79s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.92s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 3.82s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.95s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣷ Deploying Metadata 3.85s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 3.98s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣾ Deploying Metadata 3.89s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 4.01s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣾ Deploying Metadata 3.92s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 4.05s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 3.95s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 4.08s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 3.98s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 4.11s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣽ Deploying Metadata 4.01s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 4.14s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣻ Deploying Metadata 4.05s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 4.17s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ⣻ Deploying Metadata 4.08s
+   ▸ Components: 15/20 (75%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: In Progress
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 4.21s
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+ ─────────────── Deploying Metadata ───────────────
+
+ Deploying v66.0 metadata to test-jiilhupy7upp@example.com using the v66.0 SOAP
+ API.
+
+ ✔ Preparing 118ms
+ ◯ Waiting for the org to respond - Skipped
+ ✘ Deploying Metadata 4.10s
+   ▸ Components: 16/22 (73%)
+ ◼ Running Tests
+ ◼ Updating Source Tracking
+ ◼ Done
+
+ Status: Failed
+ Deploy ID: 0AfBh000005wf37KAA
+ Target Org: test-jiilhupy7upp@example.com
+ Elapsed Time: 4.23s
+
+
+Component Failures [6]
+┌──────────────────────────┬───────────────────────────────────────────┬────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┬─────────────┐
+│ Type                     │ Name                                      │ Problem                                                                                                                                                                                                                                                                                        │ Line:Column │
+├──────────────────────────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┼─────────────┤
+│ ApexClass                │ GeminiDebriefService                      │ No such column 'Gemini_API_Key__c' on entity 'MeetingMind_Config__mdt'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names. (11:50)                               │ 11:50       │
+│ ApexClass                │ GeminiDebriefService                      │ Variable does not exist: Gemini_API_Key__c (17:33)                                                                                                                                                                                                                                             │ 17:33       │
+│ ApexClass                │ GeminiDebriefServiceTest                  │ Dependent class is invalid and needs recompilation:                                                                                                                                                                                                                                          │ 11:50       │
+│                          │                                           │ Class GeminiDebriefService : No such column 'Gemini_API_Key__c' on entity 'MeetingMind_Config__mdt'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names. (11:50)  ││
+│ CustomMetadata           │ MeetingMind_Config.Default                │ MeetingMind_Config__mdt: could not find fields: Gemini_API_Key__c                                                                                                                                                                                                                              │             │
+│ CustomField              │ MeetingMind_Config__mdt.Gemini_API_Key__c │ Invalid length, maximum is: 255 (6:13)                                                                                                                                                                                                                                                         │ 6:13        │
+│ LightningComponentBundle │ meetingMindDebrief                        │ Unable to find Apex action class referenced as 'GeminiDebriefService'.                                                                                                                                                                                                                         │             │
+└──────────────────────────┴───────────────────────────────────────────┴────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┴─────────────┘
+
+

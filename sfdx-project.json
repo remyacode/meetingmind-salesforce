@@ -1,0 +1,18 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "MeetingMind",
+      "versionName": "Spring 2026",
+      "versionNumber": "1.0.0.NEXT"
+    }
+  ],
+  "namespace": "mmind",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "61.0",
+  "packageAliases": {
+    "MeetingMind": "0HodM0000003Iy5SAE",
+    "MeetingMind@1.0.0-1": "04tdM000000SN4vQAG"
+  }
+}
