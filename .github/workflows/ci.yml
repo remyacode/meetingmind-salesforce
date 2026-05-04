@@ -1,37 +1,71 @@
-name: Salesforce CI
+name: Salesforce CI - MeetingMind
 
 on:
   push:
-    branches:
-      - main
+    branches: ['**']
+    paths: ['force-app/**']
   pull_request:
-    branches:
-      - main
+    branches: [main]
+    paths: ['force-app/**']
 
 jobs:
-  build:
+  validate:
+    name: Validate on Scratch Org
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Install Salesforce CLI
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install SF CLI
         run: npm install -g @salesforce/cli
 
-      - name: Authenticate to Dev Hub
+      - name: Authenticate Dev Hub
         run: |
-          echo "${{ secrets.DEVHUB_SFDX_URL }}" > ./SFDX_URL.txt
-          sf org login sfdx-url -f ./SFDX_URL.txt -a myDevHub -d
-          rm ./SFDX_URL.txt
+          echo '${{ secrets.DEVHUB_SFDX_URL }}' > devhub.txt
+          sf org login sfdx-url --sfdx-url-file devhub.txt \
+            --alias devhub --set-default-dev-hub
+          rm devhub.txt
 
       - name: Create Scratch Org
-        run: sf org create scratch -f config/project-scratch-def.json -a ciOrg -d -y 1
+        run: |
+          sf org create scratch \
+            --target-dev-hub devhub \
+            --definition-file config/project-scratch-def.json \
+            --alias ci-scratch \
+            --duration-days 1 \
+            --set-default
 
       - name: Deploy Source
-        run: sf project deploy start --target-org ciOrg
+        run: |
+          sf project deploy start \
+            --target-org ci-scratch \
+            --source-dir force-app \
+            --wait 30
 
       - name: Run Apex Tests
-        run: sf apex run test --target-org ciOrg --result-format human --wait 10
+        run: |
+          sf apex run test \
+            --target-org ci-scratch \
+            --code-coverage \
+            --result-format human \
+            --output-dir ./test-results \
+            --wait 20
+
+      - name: Upload Results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-results
+          path: ./test-results
 
       - name: Delete Scratch Org
         if: always()
-        run: sf org delete scratch -o ciOrg --no-prompt
+        run: |
+          sf org delete scratch \
+            --target-org ci-scratch \
+            --no-prompt
