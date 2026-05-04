@@ -1,6 +1,7 @@
 name: Salesforce CI - MeetingMind
 
 on:
+  workflow_dispatch:
   push:
     branches: ['**']
     paths: ['force-app/**']

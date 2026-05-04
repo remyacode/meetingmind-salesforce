@@ -116,3 +116,4 @@ public with sharing class GeminiDebriefService {
         return String.join(strList, separator);
     }
 }
+// Trigger CI
