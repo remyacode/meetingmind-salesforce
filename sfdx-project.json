@@ -5,7 +5,7 @@
       "default": true,
       "package": "MeetingMind",
       "versionName": "Spring 2026",
-      "versionNumber": "1.1.0.NEXT",
+      "versionNumber": "1.2.0.NEXT",
       "ancestorId": "HIGHEST"
     }
   ],
@@ -15,6 +15,7 @@
   "packageAliases": {
     "MeetingMind": "0HodM0000003Iy5SAE",
     "MeetingMind@1.0.0-1": "04tdM000000SN4vQAG",
-    "MeetingMind@1.1.0-1": "04tdM000000SN6XQAW"
+    "MeetingMind@1.1.0-1": "04tdM000000SN6XQAW",
+    "MeetingMind@1.2.0-1": "04tdM000000SN89QAG"
   }
 }
