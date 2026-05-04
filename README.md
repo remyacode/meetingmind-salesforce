@@ -1,5 +1,5 @@
 # MeetingMind - AI Meeting Debrief for Salesforce
-![CI](https://github.com/remyacode/meetingmind-salesforce/actions/workflows/ci.yml/badge.svg)
+[![Salesforce CI - MeetingMind](https://github.com/remyacode/meetingmind-salesforce/actions/workflows/ci.yml/badge.svg)](https://github.com/remyacode/meetingmind-salesforce/actions/workflows/ci.yml)
 ![AppExchange](https://img.shields.io/badge/AppExchange-Listed-00A1E0)
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
